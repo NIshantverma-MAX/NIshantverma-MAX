@@ -2,8 +2,11 @@
 🔭 I’m currently working on personal projects and improving my Data Structures & Algorithms skills.<br><br>👯 I’m looking to collaborate on open-source projects, web development, and beginner-friendly AI projects.<br><br>🤝 I’m looking for help with open-source contributions and building scalable full-stack applications.<br><br>🌱 I’m currently learning MERN Stack, DSA, Git/GitHub, and AI tools.<br><br>💬 Ask me about Java, Web Development, GitHub, and learning tech as a student.<br><br>⚡ Fun fact: I enjoy turning ideas into projects and learning new technologies by building real-world applications.
 
 
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ www.linkedin.com/in/nishant-verma-tech)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-verma-tech)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermanishant216@gmail.com)
 
 # 💻 Tech Stack:
