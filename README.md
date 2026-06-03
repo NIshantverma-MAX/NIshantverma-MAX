@@ -25,7 +25,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NIshantverma-MAX&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=NIshantverma-MAX&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=NIshantverma-MAX&style=for-the-badge&color=blue)
